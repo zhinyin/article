@@ -14,7 +14,14 @@ h1 {
   padding-bottom: 5px;
 }
 
-
+.nav {
+  font-family: DIN Condensed, sans-serif, bold;
+  font-size: 20px;
+  word-spacing: 10px;
+  text-align: center;
+  color: #24617E;
+  padding-top: 10px;
+}
 
 .nav a{
   color: #333;
@@ -75,19 +82,23 @@ h2 {
   font-family: Georgia, serif, bold;
   font-size: 13px;
   text-align: left;
-  color: #CCCCCC;
+  color: black;
   padding-bottom: 10px;
   line-height: 120%;
+  margin-left: 150px;
 }
 
-.summary {
+.dateline {
+
+}
+
+.story {
   font-family: Georgia, serif;
   font-size: 14px;
   text-align: left;
   color: black;
   padding-bottom: 10px;
   line-height: 120%;
-  border-bottom: 2px solid #CCCCCC;
 }
 
 .list {
@@ -97,7 +108,7 @@ h2 {
 h3 {
   padding: 10px 20px 10px 20px;
   font-family: "Lora", serif;
-  font-size: 30px;
+  font-size: 35px;
   text-align: center;
   color: black;
 }
@@ -110,8 +121,9 @@ h3 {
 }
 
 img {
-  height: 275px;
-  width: 420px;
+  height: 466px;
+  width: 700px;
+  margin: 70px;
 }
 
 .caption {
