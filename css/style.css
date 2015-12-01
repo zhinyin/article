@@ -14,14 +14,7 @@ h1 {
   padding-bottom: 5px;
 }
 
-.nav {
-  font-family: DIN Condensed, sans-serif, bold;
-  font-size: 20px;
-  word-spacing: 10px;
-  text-align: center;
-  color: #24617E;
-  padding-top: 10px;
-}
+
 
 .nav a{
   color: #333;
